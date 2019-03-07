@@ -3,3 +3,8 @@
 /android/android.debug.keystore
 /android/build/
 /tags
+.ccls-cache
+.gradle
+src/.ccls-cache
+thirdparty/libjpeg-turbo/arm64-v8a/
+thirdparty/libjpeg-turbo/armeabi-v7a/
